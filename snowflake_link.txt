@@ -1,1 +1,2 @@
 https://app.snowflake.com/imuyxju/ws28517/#/data/databases/TSI_CLASSWORK_9/schemas/MY_SCHEMA
+https://app.snowflake.com/imuyxju/ws28517/#/data/databases/TSI_CLASSWORK_9/schemas/EUROPEAN_UNION_COUNTRIES
